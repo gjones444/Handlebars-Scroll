@@ -1,0 +1,18 @@
+h1 {
+	color: green;
+	border: 20px;
+	border-style: groove;
+	text-align: center;
+}
+
+#tn {
+	color: green
+}
+
+#hyards {
+	color: blue;
+}
+
+#next {
+	margin-left: 75px
+}
